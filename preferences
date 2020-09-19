@@ -1,0 +1,167 @@
+# LyX 2.3.2 generated this file. If you want to make your own
+# modifications you should do them from inside LyX and save.
+
+Format 24
+
+\bind_file "emacs"
+
+#
+# MISC SECTION ######################################
+#
+
+# The time interval between auto-saves in seconds.
+\autosave 60
+\user_name "JasonSun"
+\user_email ""
+
+#
+# SCREEN & FONTS SECTION ############################
+#
+
+\screen_zoom 180
+\cursor_width 4
+\scroll_below_document true
+\screen_font_roman "CMU Typewriter Text Variable Width"
+\screen_font_sans "CMU Bright"
+\screen_font_typewriter "CMU Typewriter Text"
+\screen_font_sizes 5 7 8 9 10 12 14.4 17.26 20.74 24.88
+\single_instance false
+\forward_search_pdf "zathuralyxforward --synctex-forward $$n:1:$$t $$o"
+
+#
+# COLOR SECTION ###################################
+#
+
+\set_color "cursor" "#5cf1ea"
+\set_color "background" "#000000"
+\set_color "foreground" "#ffffff"
+\set_color "selection" "#646496"
+\set_color "selectiontext" "#fefefe"
+\set_color "latex" "#ffdc07"
+\set_color "preview" "#aaaaff"
+\set_color "inlinecompletion" "#AE81FF"
+\set_color "nonuniqueinlinecompletion" "#AE81FF"
+\set_color "note" "#75715E"
+\set_color "notebg" "#252728"
+\set_color "commentbg" "#252728"
+\set_color "greyedoutbg" "#252728"
+\set_color "shaded" "#dc322f"
+\set_color "listingsbg" "#75715E"
+\set_color "footlabel" "#AE81FF"
+\set_color "urllabel" "#aaaaff"
+\set_color "urltext" "#55aaff"
+\set_color "depthbar" "#A6E22E"
+\set_color "language" "#A6E22E"
+\set_color "command" "#aaaaff"
+\set_color "commandbg" "#252728"
+\set_color "commandframe" "#AE81FF"
+\set_color "special" "#66D9EF"
+\set_color "graphicsbg" "#252728"
+\set_color "math" "#a2ff4a"
+\set_color "mathbg" "#000000"
+\set_color "mathmacrobg" "#252728"
+\set_color "mathmacroframe" "#50504f"
+\set_color "mathmacroblend" "#A6E22E"
+\set_color "mathmacronewarg" "#A6E22E"
+\set_color "mathframe" "#00ffff"
+\set_color "mathcorners" "#262728"
+\set_color "mathline" "#aaaaff"
+\set_color "collapsible" "#0286ff"
+\set_color "collapsibleframe" "#55aaff"
+\set_color "insetframe" "#262728"
+\set_color "eolmarker" "#A6E22E"
+\set_color "added_space" "#A6E22E"
+\set_color "appendix" "#dc322f"
+\set_color "changebar" "#4d4d4c"
+\set_color "addedtext" "#8b0000"
+\set_color "changedtextauthor1" "#A6E22E"
+\set_color "changedtextauthor2" "#d33682"
+\set_color "changedtextauthor3" "#cf4b16"
+\set_color "changedtextauthor4" "#b58900"
+\set_color "changedtextauthor5" "#859900"
+\set_color "tabularline" "#A6E22E"
+\set_color "tabularonoffline" "#AE81FF"
+\set_color "newpage" "#A6E22E"
+\set_color "pagebreak" "#ffff7f"
+\set_color "buttonframe" "#50504f"
+\set_color "buttonbg" "#262728"
+\set_color "buttonhoverbg" "#454748"
+\set_color "paragraphmarker" "#8abeb7"
+\set_color "previewframe" "#A6E22E"
+
+#
+# PRINTER SECTION ###################################
+#
+
+
+#
+# TEX SECTION #######################################
+#
+
+
+#
+# FILE SECTION ######################################
+#
+
+\backupdir_path "/home/jasonsun0310/.local/backup"
+
+#
+# PLAIN TEXT EXPORT SECTION ##############################
+#
+
+
+#
+# SPELLCHECKER SECTION ##############################
+#
+
+
+#
+# LANGUAGE SUPPORT SECTION ##########################
+#
+
+\spellcheck_continuously true
+
+#
+# 2nd MISC SUPPORT SECTION ##########################
+#
+
+
+#
+# FORMATS SECTION ##########################
+#
+
+\format "bmp" "bmp" "BMP" "" "xdg-open" "auto" "" "image/x-bmp"
+\format "dia" "dia" "DIA" "" "auto" "auto" "vector,zipped=native" "application/x-dia-diagram"
+\format "excel" "xls" "Excel spreadsheet" "" "" "auto" "document" "application/vnd.ms-excel"
+\format "fen" "fen" "FEN" "" "auto" "auto" "" ""
+\format "fig" "fig" "FIG" "" "auto" "auto" "vector" "application/x-xfig"
+\format "gif" "gif" "GIF" "" "xdg-open" "auto" "" "image/gif"
+\format "gnumeric" "gnumeric" "Gnumeric spreadsheet" "" "" "auto" "document" "application/x-gnumeric"
+\format "agr" "agr" "Grace" "" "auto" "auto" "vector" ""
+\format "html_table" "html" "HTML Table (for spreadsheets)" "" "" "auto" "document" "text/html"
+\format "jpg" "jpg, jpeg" "JPEG" "" "xdg-open" "auto" "" "image/jpeg"
+\format "excel2" "xlsx" "MS Excel Office Open XML" "" "" "auto" "document" "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+\format "noteedit" "not" "Noteedit" "" "auto" "auto" "vector" ""
+\format "oocalc" "ods" "OpenDocument spreadsheet" "" "" "auto" "document" "application/vnd.oasis.opendocument.spreadsheet"
+\format "pbm" "pbm" "PBM" "" "xdg-open" "auto" "" "image/x-portable-bitmap"
+\format "pdf2" "pdf" "PDF (pdflatex)" "F" "unique_zathura $$i" "" "document,vector,menu=export" ""
+\format "pgm" "pgm" "PGM" "" "xdg-open" "auto" "" "image/x-portable-graymap"
+\format "png" "png" "PNG" "" "xdg-open" "auto" "" "image/x-png"
+\format "ppm" "ppm" "PPM" "" "xdg-open" "auto" "" "image/x-portable-pixmap"
+\format "svg" "svg" "SVG" "" "auto" "auto" "vector" "image/svg+xml"
+\format "svgz" "svgz" "SVG (compressed)" "" "auto" "auto" "vector,zipped=native" ""
+\format "tgif" "obj, tgo" "Tgif" "" "auto" "auto" "vector" "application/x-tgif"
+\format "tiff" "tif" "TIFF" "" "xdg-open" "auto" "" "image/tiff"
+\format "xbm" "xbm" "XBM" "" "xdg-open" "auto" "" "image/x-xbitmap"
+\format "xpm" "xpm" "XPM" "" "xdg-open" "auto" "" "image/x-xpixmap"
+\default_otf_view_format dvi3
+
+#
+# CONVERTERS SECTION ##########################
+#
+
+
+#
+# COPIERS SECTION ##########################
+#
+
